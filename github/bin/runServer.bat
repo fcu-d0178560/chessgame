@@ -1,1 +1,0 @@
-java -cp "mysql-connector-java-5.1.38-bin.jar;" Server/Server
